@@ -1,7 +1,3 @@
-/*
-Xor Gate hdl script
-*/
-
 CHIP Xor {
     IN a, b;
     OUT out;
